@@ -29,7 +29,7 @@ We do not collect any user data, including usage statistics or interactions with
 <h3> Changes to the Privacy Policy </h3>
 Any updates or modifications to this Privacy Policy will be communicated through the App's update section within the application.
 
-<h3> Contact Us <h3>
+<h3> Contact Us </h3>
 If you have any questions or concerns about this Privacy Policy, please contact us at 02xdeveloper@gmail.com
 
 By using Kids Story Book: MagicTales, you acknowledge and agree to the terms outlined in this Privacy Policy, acknowledging the absence of data collection practices in the App.
